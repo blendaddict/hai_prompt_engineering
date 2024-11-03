@@ -1,0 +1,145 @@
+[
+    {
+        "statement": "The tone of the message should be more:",
+        "less": {
+            "label": "Direct",
+            "description": "Make the text more concise and straightforward, focusing on the message's purpose without small talk."
+        },
+        "more": {
+            "label": "Warm",
+            "description": "Add warmth and conversational elements, using open-ended questions and friendly language."
+        }
+    },
+    {
+        "statement": "The humor level in the message should be more:",
+        "less": {
+            "label": "Serious",
+            "description": "Keep the message focused and free of jokes, maintaining a serious and professional tone."
+        },
+        "more": {
+            "label": "Humorous",
+            "description": "Incorporate light humor and casual language to make the message feel relaxed and approachable."
+        }
+    },
+    {
+        "statement": "The level of formality should be more:",
+        "less": {
+            "label": "Casual",
+            "description": "Adopt a relaxed, friendly tone that feels informal and approachable."
+        },
+        "more": {
+            "label": "Formal",
+            "description": "Use a professional tone, including proper etiquette and formal language for a more polished message."
+        }
+    },
+    {
+        "statement": "The context of your last interaction should be more focused on:",
+        "less": {
+            "label": "Current Connection",
+            "description": "Focus on the present interest in reconnecting, rather than dwelling on past interactions."
+        },
+        "more": {
+            "label": "Past Experience",
+            "description": "Reference positive shared experiences from the past to build familiarity and warmth."
+        }
+    },
+    {
+        "statement": "The relationship with the person was more:",
+        "less": {
+            "label": "Distant",
+            "description": "Maintain a friendly tone without becoming too familiar, appropriate for a less close relationship."
+        },
+        "more": {
+            "label": "Close",
+            "description": "Include references to shared memories and express a genuine sentiment that suits a close relationship."
+        }
+    },
+    {
+        "statement": "The time since your last contact should be acknowledged as:",
+        "less": {
+            "label": "Short",
+            "description": "Briefly acknowledge the recent gap in communication without placing too much emphasis on it."
+        },
+        "more": {
+            "label": "Long",
+            "description": "Openly acknowledge the longer gap with warmth, ensuring the tone is friendly and understanding."
+        }
+    },
+    {
+        "statement": "The goal for reconnecting should be more:",
+        "less": {
+            "label": "Casual",
+            "description": "Keep the tone light and conversational, suitable for a casual catch-up without a specific agenda."
+        },
+        "more": {
+            "label": "Purpose-Driven",
+            "description": "Start with a personal touch before introducing a specific purpose for reaching out, such as networking or an event."
+        }
+    },
+    {
+        "statement": "The level of emotional openness should be more:",
+        "less": {
+            "label": "Reserved",
+            "description": "Maintain a neutral emotional tone, focusing more on general updates than personal reflections."
+        },
+        "more": {
+            "label": "Open",
+            "description": "Express genuine emotions and reflections to create a more personal and heartfelt connection."
+        }
+    },
+    {
+        "statement": "The pacing of the message should be more:",
+        "less": {
+            "label": "Quick",
+            "description": "Keep the message brief, getting to the point quickly without extra context."
+        },
+        "more": {
+            "label": "Gradual",
+            "description": "Take a gradual approach, providing additional context to ease into the conversation naturally."
+        }
+    },
+    {
+        "statement": "The level of specificity in the message should be more:",
+        "less": {
+            "label": "General",
+            "description": "Stay broad in details, allowing room for interpretation and follow-up questions."
+        },
+        "more": {
+            "label": "Detailed",
+            "description": "Include specific details to show attentiveness and interest in particular topics or events."
+        }
+    },
+    {
+        "statement": "The message should acknowledge past challenges more:",
+        "less": {
+            "label": "Minimally",
+            "description": "Avoid any difficult topics of the past, keeping the tone neutral and forward-focused."
+        },
+        "more": {
+            "label": "Openly",
+            "description": "Acknowledge any past challenges or tensions directly but with warmth, showing understanding and empathy."
+        }
+    },
+    {
+        "statement": "The message's call to action should be more:",
+        "less": {
+            "label": "Subtle",
+            "description": "Gently suggest a follow-up or next steps without applying pressure."
+        },
+        "more": {
+            "label": "Clear",
+            "description": "Make the call to action direct and specific to convey confidence and interest in reconnecting."
+        }
+    },
+    {
+        "statement": "The message should show curiosity about their updates more:",
+        "less": {
+            "label": "Minimally",
+            "description": "Keep questions to a minimum, allowing them to respond only if they feel comfortable."
+        },
+        "more": {
+            "label": "Eagerly",
+            "description": "Express a high level of curiosity about their recent updates to encourage open sharing."
+        }
+    }
+]
